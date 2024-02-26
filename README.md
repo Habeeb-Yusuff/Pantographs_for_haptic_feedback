@@ -56,7 +56,7 @@ This project aimed to develop a CAD model for an  Haptic Feedback Pantograph.<br
 
 Keywords: Haptic Technology, Pantograph Robot Model, Virtual Environments.
 
-[(Project Presentation)](https://github.com/Jesse-Alves/Design-and-Simulation-of-a-Virtual-Environment-and-Collision-Model-for-the-Haptic-Device-Pantograph/blob/main/Haptic%20Loop%20-%20Final%20Presentation.pdf)
+[(Project Presentation)](https://github.com/Habeeb-Yusuff/Pantographs_for_haptic_feedback/blob/main/Haptic%20Project's%20Final%20Presentation%20(110523).pdf)
 
 
 
