@@ -104,6 +104,7 @@ Solidworks package
 <!-- USAGE EXAMPLES -->
 ## Usage
 The file "Pantograph assembly + parts" contains all the parts and the assembly of the model. 
+
 1 - Unzip the file
 
 2 - Open the folder and locate "Final_Assembly"
