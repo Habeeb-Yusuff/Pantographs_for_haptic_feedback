@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project aimed to develop a CAD model for an  Haptic Feedback Pantograph.<br> <br>**Haptic feedback** refers to the use of tactile sensations, typically through vibrations or forces, to simulate the sense of touch in electronic devices or virtual environments, this is an invaluable tool in medical training, particularly in surgical simulations. Simulators equipped with haptic interfaces allow medical professionals to practice procedures in a virtual environment, feeling the resistance and forces as they would in a real surgery. Also, In robot-assisted surgery, haptic feedback enables surgeons to feel the tissues they are operating on through robotic instruments. This tactile feedback enhances precision and control, crucial in minimally invasive procedures. <br><br> A pantograph was used in this project to transmit forces or movements from one location to another, enabling a user to interact with a virtual or remote environment.
+This project aimed to develop a CAD model for an Haptic Feedback Pantograph.<br> <br>**Haptic feedback** refers to the use of tactile sensations, typically through vibrations or forces, to simulate the sense of touch in electronic devices or virtual environments, this is an invaluable tool in medical training, particularly in surgical simulations. Simulators equipped with haptic interfaces allow medical professionals to practice procedures in a virtual environment, feeling the resistance and forces as they would in a real surgery. Also, In robot-assisted surgery, haptic feedback enables surgeons to feel the tissues they are operating on through robotic instruments. This tactile feedback enhances precision and control, crucial in minimally invasive procedures. <br><br> A pantograph was used in this project to transmit forces or movements from one location to another, enabling a user to interact with a virtual or remote environment.
 
 Keywords: Haptic Technology, Pantograph Robot Model, Virtual Environments.
 
@@ -90,7 +90,7 @@ Keywords: Haptic Technology, Pantograph Robot Model, Virtual Environments.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-All CAD files were designed in solid works 2022 version and can be opened with the same version and newer versions
+All CAD files were designed in Solidworks 2022 version and can be opened with the same version and newer versions
 
 ### Prerequisites
 
@@ -103,12 +103,12 @@ Solidworks package
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+The file "Pantograph assembly + parts" contains all the parts and the assembly of the model. 
+1 - Unzip the file
 
-1 - Unzip the file in 
+2 - Open the folder and locate "Final_Assembly"
 
-2 - Open the 
-
-3 - Run 
+3 - Lunch Final_Assembly using Solidworks (2022 and newer versions )
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
